@@ -21,8 +21,7 @@ Além disso também sou graduado em Biologia, Whovian, viciado em séries e fã 
 #
 <div>
 <a href="https://github.com/JosueSerejo">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueSerejo&layout=compact&langs_count=7&theme=dracula"/> 
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=JosueSerejo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueSerejo&layout=compact&langs_count=7&theme=dark"/> <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=JosueSerejo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 
