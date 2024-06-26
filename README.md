@@ -1,9 +1,12 @@
  ## Opa, aqui é o Serejo, tudo tranquilo? <img src="https://media.tenor.com/H0YnlUFWJnIAAAAi/tardis-pixel-art.gif" width="50"  />
 
-Natural do litoral do Piauí, tenho 28 anos, cursando o 1º período de Sistemas de Computação e futuro técnico em Informática para a Internet.
-Além disso também sou graduado em Biologia, Whovian, viciado em séries e fã de filmes Slasher. 
+ <img align="right" src="https://tenor.com/pt-BR/view/eating-chips-doctor-who-dr-who-gif-3888652.gif" width="300"  >
 
-<img src="https://tenor.com/pt-BR/view/eating-chips-doctor-who-dr-who-gif-3888652.gif" width="300"  >
+
+
+<p align="left" > Natural do litoral do Piauí, tenho 28 anos, cursando o 1º período de Sistemas de Computação e futuro técnico em Informática para a Internet.  
+Apesar de estar me preparando para ser Full Stack, tenho preferência por programação Front-end.
+Além disso também sou graduado em Biologia, Whovian, viciado em séries e fã de filmes Slasher.  </p>
 
 
 
