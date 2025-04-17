@@ -4,7 +4,7 @@
 
 
 
-<p align="left" > Natural do litoral do Piauí, tenho 28 anos, cursando o 1º período de Sistemas de Computação e futuro técnico em Informática para a Internet.  
+<p align="left" > Natural do litoral do Piauí, tenho 29 anos, sou técnico em Informática para a Internet e atualmente estou no 2º bloco de Sistemas de Computação.  
 Apesar de estar me preparando para ser Full Stack, tenho preferência por programação Front-end.
 Além disso também sou graduado em Biologia, Whovian, viciado em séries e fã de filmes Slasher.  </p>
 
