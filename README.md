@@ -1,39 +1,59 @@
- ## Opa, aqui é o Serejo, tudo tranquilo? <img src="https://media.tenor.com/H0YnlUFWJnIAAAAi/tardis-pixel-art.gif" width="50"  />
-
- <img align="right" src="https://tenor.com/pt-BR/view/eating-chips-doctor-who-dr-who-gif-3888652.gif" width="300"  >
+# Olá, sou o Serejo! <img src="https://media.tenor.com/H0YnlUFWJnIAAAAi/tardis-pixel-art.gif" width="50" />
 
 
 
-<p align="left" > Natural do litoral do Piauí, tenho 29 anos, sou técnico em Informática para a Internet e atualmente estou no 2º bloco de Sistemas de Computação.  
-Apesar de estar me preparando para ser Full Stack, tenho preferência por programação Front-end.
-Além disso também sou graduado em Biologia, Whovian, viciado em séries e fã de filmes Slasher.  </p>
+Natural do litoral do Piauí, tenho 29 anos e sou técnico em Informática para a Internet. Atualmente, estou no 2º bloco de Sistemas de Computação, **com foco e paixão no desenvolvimento Front-end**, enquanto busco me tornar Full Stack.
 
+---
 
+## Sobre Mim
 
+Fora do código, sou graduado em Biologia, um grande fã de Doctor Who (Whovian!), viciado em séries e entusiasta de filmes Slasher.
 
-## Ferramentas e Tecnologias <img src="https://media.tenor.com/b8hnBa5UgGAAAAAi/wave-kenny-mccormick.gif" width="50"  />
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
-          
-          
-          
-## Estou aprendendo      
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
-          
+## Minhas Habilidades em Desenvolvimento Front-end 💻
 
-#
+Aqui estão as tecnologias que domino e utilizo para criar interfaces incríveis e responsivas:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+</p>
+
+---
+
+## Tecnologias que Estou Aprendendo 🚀
+
+Sempre evoluindo, estou aprimorando minhas habilidades em:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+</p>
+
+---
+
+## Minhas Estatísticas no GitHub
+
 <div>
-<a href="https://github.com/JosueSerejo">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueSerejo&layout=compact&langs_count=7&theme=dark"/> <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=JosueSerejo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueSerejo&layout=compact&langs_count=7&theme=dark"/>
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=JosueSerejo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
+---
 
-## Contatos:
+## Conecte-se Comigo! 📧
+
+Fique à vontade para me seguir ou entrar em contato:
 
 <div>
-<a href="https://instagram.com/prgrmnd" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="#" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto: willamy.serejo@aluno.senai.br "><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="#" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://instagram.com/prgrmnd" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="URL_DO_SEU_TWITCH" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="mailto:willamy.serejo@aluno.senai.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="URL_DO_SEU_LINKEDIN" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-                    
