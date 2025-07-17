@@ -2,7 +2,7 @@
 
 
 
-Natural do litoral do Piauí, tenho 29 anos e sou técnico em Informática para a Internet. Atualmente, estou no 2º bloco de Sistemas de Computação, **com foco e paixão no desenvolvimento Front-end e banco de dados**, enquanto busco me tornar Full Stack.
+Natural do litoral do Piauí, tenho 29 anos e sou técnico em Informática para a Internet. Atualmente, estou no 3º bloco de Sistemas de Computação, **com foco e paixão no desenvolvimento Front-end e banco de dados**, enquanto busco me tornar Full Stack.
 
 ---
 
