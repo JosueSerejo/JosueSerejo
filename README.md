@@ -39,15 +39,15 @@ Sou graduando em **Tecnologia em Sistemas de Computação** na UESPI, com forma�
 </p>
 
 ---
-### 📊 My GitHub Journey
+## 📊 My GitHub Journey
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JosueSerejo&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueSerejo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=JosueSerejo&theme=tokyonight&hide_border=true" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosueSerejo&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueSerejo&theme=tokyonight&hide_border=true" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueSerejo&theme=tokyonight" />
 </p>
 
 ---
