@@ -1,65 +1,73 @@
-# Olá, sou o Josué Serejo! <img src="https://media.tenor.com/H0YnlUFWJnIAAAAi/tardis-pixel-art.gif" width="50" />
-
-Natural do litoral do Piauí, sou um **Desenvolvedor Web** apaixonado por criar experiências digitais. Atualmente, estou cursando **Tecnologia em Sistemas de Computação**, com um forte **foco em desenvolvimento Front-end e banco de dados**, e busco constantemente aprimorar minhas habilidades para me tornar um **desenvolvedor Full Stack**.
-
----
-
-## Sobre Mim 🌟
-
-Fora do universo do código, sou graduado em Biologia, um dedicado fã de Doctor Who (Whovian!), viciado em séries e um entusiasta de filmes Slasher. Essas paixões me ajudam a manter a criatividade e a curiosidade aguçadas, qualidades que aplico também no desenvolvimento de software.
-
----
-
-## Minhas Habilidades Técnicas 💻
-
-Minha expertise abrange as seguintes tecnologias, que utilizo para construir soluções robustas e intuitivas:
-
-### Front-end
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
-</p>
-
-### Banco de Dados
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### Atualmente Aprendendo e Aprimorando 🚀
-
-Estou em constante evolução, expandindo meu conhecimento em:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,php" />
-</p>
-
----
-
-## Minhas Estatísticas no GitHub 📊
-
-Confira meu progresso e contribuições no GitHub:
+#  <p align="center"> Olá, eu sou o Serejo! <img src="https://media.tenor.com/H0YnlUFWJnIAAAAi/tardis-pixel-art.gif" width="35" align="center" /> </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosueSerejo&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosueSerejo&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosueSerejo&theme=dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/Role-Web%20Developer-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Front--end%20%26%20BD-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Connect-green?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=JosueSerejo&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
-## Conecte-se Comigo! 📧
+### 🚀 Sobre Mim
+Sou graduando em **Tecnologia em Sistemas de Computação** na UESPI, com formação técnica pelo SENAI. Minha trajetória une o olhar analítico da **Biologia** com a precisão do desenvolvimento de software.
 
-Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para me seguir ou entrar em contato:
+- 🧪 Pesquisador no programa **PET-Saúde**, desenvolvendo soluções digitais para saúde pública.
+- 💻 Focado em **Clean Code** e automação de testes (**Pytest/Vitest**).
+- 🌌 **Whovian** e fã de narrativas de suspense e filmes slasher.
 
+---
+
+### 🛠️ Tech Stack Profissional
+
+**Front-end Development**
 <p align="left">
-  <a href="https://www.linkedin.com/in/serejodev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/prgrmnd" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:willamy.serejo@aluno.senai.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+**Back-end & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+---
+### 📊 My GitHub Journey
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JosueSerejo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueSerejo&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueSerejo&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Visualizações do Perfil 👀
+### 📖 Perfil de estudos
+Para ver meus materiais de estudo, anotações e exercícios de lógica:
+👉 **[Acesse meu Perfil de Estudos (prgrmnd)](https://github.com/prgrmnd)**
+
+---
+
+### 📫 Conecte-se comigo
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JosueSerejo&color=blue" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/serejodev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:willamy.serejo@aluno.senai.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/prgrmnd" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
