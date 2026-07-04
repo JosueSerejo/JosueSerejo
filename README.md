@@ -1,73 +1,89 @@
-#  <p align="center"> Olá, eu sou o Serejo! <img src="https://media.tenor.com/H0YnlUFWJnIAAAAi/tardis-pixel-art.gif" width="35" align="center" /> </p>
+<div align="center">
+  <img src="https://i.imgur.com/uWFdmuH.png" alt="Top Banner" width="100%" height="300" style="object-fit: cover; border-radius: 8px;" />
+</div>
+<h3 align="center">Olá! Eu sou o Serejo <img src="https://media.tenor.com/H0YnlUFWJnIAAAAi/tardis-pixel-art.gif" width="30" /></h3>
+
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Web%20Developer-B8860B?style=flat-square&labelColor=0A2540&label=Role" />
+  <img src="https://img.shields.io/badge/Focus-Front--end%20%26%20BD-B8860B?style=flat-square&labelColor=0A2540&label=Focus" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Connect-B8860B?style=flat-square&labelColor=0A2540&label=Status" />
+  <img src="https://komarev.com/ghpvc/?username=JosueSerejo&color=B8860B&labelColor=0A2540&style=flat-square" alt="Profile views"/>
+</p>
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="65%" style="border: none;">
+      <p align="center"><b>Graduando em Sistemas de Computação (UESPI) & Técnico em Informática</b></p>
+<p>Natural de Parnaíba - PI e minha trajetória une o olhar analítico da <b>Biologia</b> com a lógica e precisão do desenvolvimento de software.</p>
+<p>🧬 Formado em <b>Ciências Biológicas</b>, <b>Whovian</b> e <b>Fã de filmes Slasher</b></p>
+<p>🧪 Atuo como pesquisador no programa <b>PET-Saúde</b>, desenvolvendo soluções digitais com foco em saúde pública.</p>
+<p>💻 Apaixonado por criar interfaces eficientes e resolver problemas complexos através do código.</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/serejodev/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-B8860B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:serejodev@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-B8860B?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://instagram.com/prgrmnd" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-B8860B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/prgrmnd" target="_blank"><img src="https://img.shields.io/badge/ESTUDOS-B8860B?style=for-the-badge&logo=github&logoColor=white" alt="Estudos" /></a>
+</div>
+    </td>
+    <td width="35%" align="center" style="border: none;">
+      <img src="https://i.imgur.com/IfH1qUM.png" width="100%" alt="Sci-Fi Character" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<div align="center">
+  <h3>Tech Stack & Skills</h3>
+</div>
+<br>
+
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td align="center" width="33%" style="border: none; padding-bottom: 10px;">
+      <img src="https://img.shields.io/badge/Front--end%20Development-B8860B?style=for-the-badge&logoColor=white" />
+    </td>
+    <td align="center" width="33%" style="border: none; padding-bottom: 10px;">
+      <img src="https://img.shields.io/badge/Back--end%20%26%20Databases-B8860B?style=for-the-badge&logoColor=white" />
+    </td>
+    <td align="center" width="33%" style="border: none; padding-bottom: 10px;">
+      <img src="https://img.shields.io/badge/Soft%20Skills-B8860B?style=for-the-badge&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" style="border: none; line-height: 2.5;">
+      <code><b>HTML5</b></code> &nbsp; <code><b>CSS3</b></code> &nbsp; <code><b>JavaScript</b></code>
+      <br>
+      <code><b>React</b></code> &nbsp; <code><b>Tailwind</b></code> &nbsp; <code><b>Bootstrap</b></code>
+    </td>
+    <td align="center" valign="top" style="border: none; line-height: 2.5;">
+      <code><b>Python</b></code> &nbsp; <code><b>PHP</b></code>
+      <br>
+      <code><b>MySQL</b></code> &nbsp; <code><b>SQLite</b></code>
+    </td>
+    <td align="center" valign="top" style="border: none; line-height: 2.5;">
+      <code><b>Comunicação</b></code> &nbsp; <code><b>Liderança</b></code>
+      <br>
+      <code><b>Rápido Aprendizado</b></code> &nbsp; <code><b>Adaptabilidade</b></code>
+    </td>
+  </tr>
+</table>
+
+
+<hr>
+
+<div align="center">
+  <h3>My GitHub Journey</h3>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Web%20Developer-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Front--end%20%26%20BD-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Connect-green?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=JosueSerejo&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img width="40%" src="https://streak-stats.demolab.com?user=JosueSerejo&theme=tokyonight&hide_border=true" />
+  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueSerejo&theme=tokyonight" />
 </p>
 
----
 
-### 🚀 Sobre Mim
-Sou graduando em **Tecnologia em Sistemas de Computação** na UESPI, com formação técnica pelo SENAI. Minha trajetória une o olhar analítico da **Biologia** com a precisão do desenvolvimento de software.
+<br>
 
-- 🧪 Pesquisador no programa **PET-Saúde**, desenvolvendo soluções digitais para saúde pública.
-- 💻 Focado em **Clean Code** e automação de testes (**Pytest/Vitest**).
-- 🌌 **Whovian** e fã de narrativas de suspense e filmes slasher.
-
----
-
-### 🛠️ Tech Stack Profissional
-
-**Front-end Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-**Back-end & Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
----
-## 📊 My GitHub Journey
-
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=JosueSerejo&theme=tokyonight&hide_border=true" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosueSerejo&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueSerejo&theme=tokyonight" />
-</p>
-
----
-
-### 📖 Perfil de estudos
-Para ver meus materiais de estudo, anotações e exercícios de lógica:
-👉 **[Acesse meu Perfil de Estudos (prgrmnd)](https://github.com/prgrmnd)**
-
----
-
-### 📫 Conecte-se comigo
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/serejodev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:willamy.serejo@aluno.senai.br">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/prgrmnd" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/NWOcNGd.png" alt="Bottom Banner" width="100%" height="100" style="object-fit: cover; border-radius: 8px;" />
+</div>
