@@ -85,5 +85,5 @@
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/NWOcNGd.png" alt="Bottom Banner" width="100%" height="100" style="object-fit: cover; border-radius: 8px;" />
+  <img src="https://i.imgur.com/r87BWL7.png" alt="Bottom Banner" width="100%" height="100" style="object-fit: cover; border-radius: 8px;" />
 </div>
